@@ -12,15 +12,16 @@ echo Centro Giovanile S. Luigi - CABIATE
 echo ------------------------------------
 echo AGGIORNO IL SISTEMA...
 sleep 3
-clean
+clear
 
 echo ------------------------------------
 echo Centro Giovanile S. Luigi - CABIATE
 echo ------------------------------------
 echo AGGIORNO IL SISTEMA...
 echo ------------------------------------
+sleep 3
 sudo apt update
-clean
+clear
 
 echo ------------------------------------
 echo Centro Giovanile S. Luigi - CABIATE
@@ -28,7 +29,7 @@ echo ------------------------------------
 echo AGGIORNO IL SISTEMA...
 echo ------------------------------------
 sudo apt upgrade
-clean
+clear
 
 echo ------------------------------------
 echo Centro Giovanile S. Luigi - CABIATE
@@ -37,7 +38,7 @@ echo PULIZIA...
 echo ------------------------------------
 sudo apt autoremove -y
 sudo apt autoclean -y
-clean
+clear
 
 echo ------------------------------------
 echo Centro Giovanile S. Luigi - CABIATE
@@ -46,7 +47,7 @@ echo AGGIORNO...
 echo ------------------------------------
 sudo apt update -y
 sudo apt upgrade -y
-clean
+clear
 
 echo ------------------------------------
 echo Centro Giovanile S. Luigi - CABIATE
@@ -55,7 +56,7 @@ echo PULIZIA...
 echo ------------------------------------
 sudo apt autoremove -y
 sudo apt autoclean -y
-clean
+clear
 
 
 echo ------------------------------------
