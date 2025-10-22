@@ -3,20 +3,7 @@
 echo ------------------------------------
 echo Centro Giovanile S. Luigi - CABIATE
 echo ------------------------------------
-neofetch
 sleep 3
-clear
-
-echo ------------------------------------
-echo Centro Giovanile S. Luigi - CABIATE
-echo ------------------------------------
-echo AGGIORNO IL SISTEMA...
-sleep 3
-clear
-
-echo ------------------------------------
-echo Centro Giovanile S. Luigi - CABIATE
-echo ------------------------------------
 echo AGGIORNO IL SISTEMA...
 echo ------------------------------------
 sleep 3
