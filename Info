@@ -1,2 +1,7 @@
 #!/bin/bash
 
+echo ------------------------------------
+echo Centro Giovanile S. Luigi - CABIATE
+echo ------------------------------------
+neofetch
+echo ------------------------------------
