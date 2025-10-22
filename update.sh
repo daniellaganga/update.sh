@@ -49,5 +49,44 @@ clear
 echo ------------------------------------
 echo Centro Giovanile S. Luigi - CABIATE
 echo ------------------------------------
-echo FINITO!
+echo FINITO! Tra 5 secondi mi chiudero.
 echo ------------------------------------
+sleep 1
+
+echo ------------------------------------
+echo Centro Giovanile S. Luigi - CABIATE
+echo ------------------------------------
+echo FINITO! Tra 4 secondi mi chiudero.
+echo ------------------------------------
+sleep 1
+
+echo ------------------------------------
+echo Centro Giovanile S. Luigi - CABIATE
+echo ------------------------------------
+echo FINITO! Tra 3 secondi mi chiudero.
+echo ------------------------------------
+sleep 1
+
+
+echo ------------------------------------
+echo Centro Giovanile S. Luigi - CABIATE
+echo ------------------------------------
+echo FINITO! Tra 2 secondi mi chiudero.
+echo ------------------------------------
+sleep 1
+
+echo ------------------------------------
+echo Centro Giovanile S. Luigi - CABIATE
+echo ------------------------------------
+echo FINITO! Tra 1 secondi mi chiudero.
+echo ------------------------------------
+sleep 1
+
+echo ------------------------------------
+echo Centro Giovanile S. Luigi - CABIATE
+echo ------------------------------------
+echo FINITO! Tra 0 secondi mi chiudero.
+echo ------------------------------------
+sleep 1
+
+exit
